@@ -1,0 +1,6 @@
+{
+  "name": "AriaPlayer",
+  "description": "基于网易云音乐三方生态与 Jetpack Media3 的原生 Android 全能音视频播放器，支持手机验证码登录、实时双语滚动歌词与专辑封面动态取色。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

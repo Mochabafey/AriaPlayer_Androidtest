@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AriaPlayer</string>
+    <string name="nav_discover">发现</string>
+    <string name="nav_video">MV视频</string>
+    <string name="nav_library">曲库</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_account">账户</string>
+    <string name="action_play">播放</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_previous">上一首</string>
+    <string name="action_next">下一首</string>
+    <string name="action_play_all">播放全部</string>
+    <string name="action_shuffle_play">随机播放</string>
+    <string name="action_switch_mv">切换 MV</string>
+    <string name="action_switch_audio">切回音频</string>
+    <string name="action_open_queue">播放队列</string>
+    <string name="action_import_local">导入本地音视频</string>
+    <string name="action_stream_url">播放网络直链</string>
+    <string name="login_title">连接网易云音乐</string>
+    <string name="login_tab_sms">手机验证码</string>
+    <string name="login_tab_qr">二维码扫码</string>
+    <string name="login_tab_cookie">Cookie 导入</string>
+    <string name="cd_album_cover">专辑封面</string>
+    <string name="cd_back">返回</string>
+    <string name="cd_fullscreen">全屏切换</string>
+    <string name="cd_collapse_player">收起播放页</string>
+</resources>
